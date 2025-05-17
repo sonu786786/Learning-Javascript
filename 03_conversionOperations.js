@@ -24,4 +24,41 @@ let booleanisLoggedIn = Boolean(isLoggedIn)
 
 let someNumber = 33
 let stringNumber = String(someNumber)
-console.log(stringNumber) // "33"
+// console.log(stringNumber) // "33"
+
+// OPERATIONS : 
+
+let value = -3
+let negValue = -value
+// console.log(negValue);
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2/2)
+// console.log(2**3) // 2^3
+// console.log(2%3) // remainder
+
+let str1 = "Hello"
+let str2 = " World"
+let str3 = str1 + str2
+// console.log(str3)
+
+// console.log("1" + 2)
+// console.log(1 + "2")
+// console.log("1" + 2 + 3)
+// console.log(1 + 2 + "3")
+
+//console.log(+true) // 1
+//console.log(+"") // 0
+
+let cnt = 100
+cnt++
+console.log(cnt)
+console.log(++cnt)
+console.log(cnt)
+console.log(cnt++)
+console.log(cnt)
+
+
+
